@@ -1,0 +1,10 @@
+clear all;
+close all;
+
+%% VAR
+
+fech = 8000;
+notetime=0.4;
+
+
+%% FIGURES
